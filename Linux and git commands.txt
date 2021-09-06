@@ -1,0 +1,19 @@
+pwd => present working directory
+mkdir <folder name> => to create a new folder with the given name
+touch <file name> => an empty file will be created with the given name
+ls - to list the files and directories(folders) in that path
+echo <content> <file name>- add contents to file
+	- if file exists then it will add contents to existing file
+	- if file doesnot exists then it will create a new file and add the contents to the newly created file
+
+cat <file name> -  to display content of th file
+rm <file name> - to remove the file
+rmdir <folder name> - to remove the folder
+========================================
+git commands
+========================================
+git init => to initialize the git on the pwd(folder)
+git config -l => to list configuration details 
+git config --global user.name "swapna"
+git config --global user.email "swapnajr.3@gmail.com"
+git config -l => to verify above configuration details 
