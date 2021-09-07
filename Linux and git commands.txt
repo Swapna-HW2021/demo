@@ -56,3 +56,10 @@ git branch
 resolving of merge conflicts
 git stash
 
+<<<<<<< Updated upstream
+=======
+git remote add origin  https://github.com/Swapna-HW2021/Sample-Repository.git (master)
+
+
+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
+>>>>>>> Stashed changes
