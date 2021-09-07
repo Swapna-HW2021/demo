@@ -1,1 +1,3 @@
 new file added to the git remote repo
+pull command is used to fetch files from remote repo to local repo
+git pull origin master is command to pull origin remote data to master in local

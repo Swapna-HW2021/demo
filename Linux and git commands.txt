@@ -12,8 +12,47 @@ rmdir <folder name> - to remove the folder
 ========================================
 git commands
 ========================================
+create a new folder
 git init => to initialize the git on the pwd(folder)
 git config -l => to list configuration details 
 git config --global user.name "swapna"
 git config --global user.email "swapnajr.3@gmail.com"
 git config -l => to verify above configuration details 
+touch <filename>
+git status
+git add <filename>
+touch <filename>
+touch <filename>
+git status
+git add .
+git status
+git commit -m <message>
+===
+create a remote repository
+push above file in to remote repository
+git remote add origin <remote-repo-url>
+git push origin master
+
+======
+create file in the remote
+git pull origin master
+======
+modify any file in the pwd
+git status
+git add <filename>
+git status
+modify the above file again
+git status
+git diff
+=====================================
+
+git checkout
+git rebase
+git merge
+git reset
+git revert
+git fetch
+git branch
+resolving of merge conflicts
+git stash
+
