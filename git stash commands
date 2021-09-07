@@ -1,1 +1,4 @@
 git stash is used to hide uncommited changes to push and pull or merge the file from other developers or branches
+git stash -  to stash the changes
+git stash apply - to re-apply the changes
+git stash pop - to re-apply changes to latest stash
